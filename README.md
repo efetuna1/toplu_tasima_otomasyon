@@ -1,0 +1,1 @@
+# toplu_tasima_otomasyon
